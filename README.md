@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋 This is JAHANGIR ALAM</h1>
+<h1 align="center">Hi 👋 This is JAHANGIR ALAM</h1>
 <p align="center"><img src="smj.jpg" width="400" alt="Laravel Logo"></p>
 <p align="center"><h3 align="center">A Pationate Full-Stack Web Developer</h3>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Profile View"></a>
@@ -21,8 +21,8 @@
 
 ## Connect With Me:
 
-## Language & Tools: -->
-
+## Language & Tools:
+<!--
 <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="mamun" /> </a>
 
 <h1 align="center">Welcome to My Profile.<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
@@ -88,4 +88,5 @@
 ---
 
 ## <img src ="https://media.giphy.com/media/R4H1oAuFVnEwdsXVoR/giphy.gif" width='50'/>&nbsp;Check Out Best DM<a href="https://passivejournal.com/ref/58/" target="_blank" rel="noopener"> Course</a>!
+-->
 
