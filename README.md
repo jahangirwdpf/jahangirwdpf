@@ -1,5 +1,11 @@
 ### Hi # 👋 I'm Jahangir Alam
-h1
+<h1 align="center">Hi # 👋 I'm Jahangir Alam</h1>
+<p align="center"><img src="smj.jpg" width="400" alt="Laravel Logo"></p>
+<p align="center"><h3 align="center">A Pationate Full-Stack Web Developer</h3>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 <!--
 **jahangirwdpf/jahangirwdpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -14,13 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center"><img src="smj.jpg" width="400" alt="Laravel Logo"></p>
 
-<p align="center"><h3>A Pationate Full-Stack Web Developer</h3>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
 ## About Me
 <!--
